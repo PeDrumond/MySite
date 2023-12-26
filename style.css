@@ -165,6 +165,12 @@ p {
   clear: both;
 }
 
+.titulo {
+  color: white;
+  size: 2.5em;
+  text-decoration: none;
+}
+
 .artigo h1 {
   border: solid 1px white;
   margin-bottom: 5px;
